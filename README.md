@@ -1,7 +1,7 @@
 # VR-Not-VR
 For the sake of CHI 2025
 
-Some needs to put a overview in this part, go edit README.md.
+Someone needs to put an overview in this part, go edit README.md.
 **此处需要添加一些项目介绍**
 
 ## 文件编辑规范
@@ -19,7 +19,7 @@ Some needs to put a overview in this part, go edit README.md.
    - 实验结果与数据
    - **条目命名：** `MM-DD-YOURID-#n`  
      *示例：`08-08-JaneDoe-#1`*
-   - 内容：原始数据/截图/日志/Misc.
+   - 内容：原始数据/截图/日志/misc.
 
 4. **`Reference/`**  
    - 统一编辑 `Reference.md`
