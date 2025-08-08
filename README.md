@@ -4,7 +4,7 @@ For the sake of CHI 2025
 Someone needs to put an overview in this part, go edit README.md.
 **此处需要添加一些项目介绍**
 
-## 文件编辑规范
+## 文档编辑规范
 
 1. **`PaperWork/`**  
    - 存放所有文档（实验/会议/技术文档）
