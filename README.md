@@ -4,6 +4,8 @@ For the sake of CHI 2025
 Someone needs to put an overview in this part, go edit README.md.
 **此处需要添加一些项目介绍**
 
+**增删改调请务必写简要更新日志，小修小补随便**
+
 ## 文档编辑规范
 
 1. **`PaperWork/`**  
