@@ -1,0 +1,13 @@
+.idea
+*.DS_Store
+
+temp
+datasets
+datasets_raw
+
+# pretrained models
+models/*.pt
+
+# large models
+models/custom/cubic100-v8l.pt
+models/custom/cubic100-v8x.pt
